@@ -16,6 +16,8 @@ cd KAIR
 python vrdl_hw4_train.py --opt options/swinir/vrdl_hw4_train.json
 
 ```
+### Inference Model Weight
+https://drive.google.com/file/d/158Lj8p-jYrZsJnTZMW1951QTMLJRc0EP/view?usp=sharing
 
 ## Inference
 ```
